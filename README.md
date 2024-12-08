@@ -69,6 +69,9 @@ streamlit run app.py --server.port 8502
 1. Streamlit Documentation
 2. Google Generative AI
 3. dotenv for managing environment variables.
+
+### image 
+![alt_image](https://github.com/Saimoguloju/translator/blob/main/image.png)
    
 
 #### Let us know if you encounter any issues or have suggestions for improvement. Happy translating! 🎉
