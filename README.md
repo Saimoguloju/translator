@@ -35,7 +35,7 @@ pip install -r requirements.txt
 ```
 
 ### Set up your environment variables:
-!. Create a .env file in the project root directory.
+1. Create a .env file in the project root directory.
 2. Add your Google API key: env
 ```python
 GOOGLE_API_KEY=your_google_api_key_here
@@ -70,7 +70,7 @@ streamlit run app.py --server.port 8502
 2. Google Generative AI
 3. dotenv for managing environment variables.
 
-### image 
+### Image 
 ![alt_image](https://github.com/Saimoguloju/translator/blob/main/image.png)
    
 
