@@ -1,4 +1,4 @@
-# English to Telugu Translator
+[# English to Telugu Translator](https://huggingface.co/spaces/MogulojuSai/Translator)
 This project is a Streamlit-based web application that uses the Google Generative AI (Gemini Pro) model to translate text from English to Telugu. The application features a clean, user-friendly interface where users can input English text, receive a Telugu translation, and view the chat history of previous translations.
 
 ## Features
